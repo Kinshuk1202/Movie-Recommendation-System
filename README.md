@@ -1,7 +1,7 @@
 # Movie Recommendation System
 A content based recommendation system using cosine similarirty
 <br>
-Recmmendations from the model are fetched using node.js into the app 
+Recmmendations from the model are fetched using node.js
 
 ### APP:
 
